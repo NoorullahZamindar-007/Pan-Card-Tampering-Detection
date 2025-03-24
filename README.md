@@ -50,7 +50,7 @@ Pan-Card-Tampering-Detection/
 └── uploads/ # Uploaded images
 
 ## 📧 Contact
--Name: Norullah Zamindar.
+-Name: Noorullah Zamindar.
 
 -Email: noorullahzamindar9@gmail.com
 
