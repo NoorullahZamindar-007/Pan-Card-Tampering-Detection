@@ -40,7 +40,7 @@ Pan-Card-Tampering-Detection/
 │ └── result_tampered.png 
 └── uploads/ # Uploaded images
 
-##📧 Contact
+## 📧 Contact
 -Name: Norullah Zamindar
 -Email: norullahzamindar@example.com
 -GitHub: norullahzamindar
