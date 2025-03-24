@@ -54,7 +54,7 @@ Pan-Card-Tampering-Detection/
 
 -Email: noorullahzamindar9@gmail.com
 
--GitHub: norullahzamindar.
+-GitHub: NoorullahZamindar-007
 
 -LinkedIn: Norullah Zamindar.
 
