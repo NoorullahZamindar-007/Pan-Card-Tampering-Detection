@@ -1,0 +1,4 @@
+Flask
+opencv-python
+scikit-image
+imutils
