@@ -30,14 +30,23 @@ PAN Card Tampering Detection is a Flask web application that detects tampering i
 
 ## 📂 Project Structure
 Pan-Card-Tampering-Detection/ 
+
 ├── app.py # Flask application code 
+
 ├── requirements.txt # Dependencies 
+
 ├── templates/ # HTML templates 
+
 │ └── index.html 
+
 ├── static/ # Static files (CSS, images) 
+
 │ ├── styles.css 
+
 │ ├── result_original.png 
+
 │ └── result_tampered.png 
+
 └── uploads/ # Uploaded images
 
 ## 📧 Contact
