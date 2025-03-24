@@ -52,7 +52,7 @@ Pan-Card-Tampering-Detection/
 ## 📧 Contact
 -Name: Norullah Zamindar.
 
--Email: norullahzamindar@example.com.
+-Email: noorullahzamindar9@gmail.com
 
 -GitHub: norullahzamindar.
 
