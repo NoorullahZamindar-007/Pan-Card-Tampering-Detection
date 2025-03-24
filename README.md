@@ -41,7 +41,11 @@ Pan-Card-Tampering-Detection/
 └── uploads/ # Uploaded images
 
 ## 📧 Contact
--Name: Norullah Zamindar
--Email: norullahzamindar@example.com
--GitHub: norullahzamindar
--LinkedIn: Norullah Zamindar
+-Name: Norullah Zamindar.
+
+-Email: norullahzamindar@example.com.
+
+-GitHub: norullahzamindar.
+
+-LinkedIn: Norullah Zamindar.
+
